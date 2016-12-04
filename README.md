@@ -11,8 +11,8 @@ This program requires Tkinter. You can install it in Debian-based systems with `
 You can run this program with `python schematic.py`. The GUI will only appear when Minecraft is open and ready.
 
 There are two versions available, one in [English](schematic_en.py) and the other in [Spanish](schematic_es.py).
-![GUI](gui_es.png)
-![GUI](gui_en.png)
+| ![GUI](gui_es.png) | ![GUI](gui_en.png) |
+
 
 
 ### Contributors
