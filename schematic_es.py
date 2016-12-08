@@ -139,7 +139,7 @@ def loadSchematic(schematicToImport, deleteSchematic = 0, delX = 0, delY = 0, de
 		   0)
       mc.postToChat('Modelo borrado!')
 
-#minecraftProcess = Popen([]) TODO: replace with minecraft pi absolute path
+minecraftProcess = Popen(['minecraft-pi'])
 
 print('Esperando a que Minecraft se inicie...')
 while 1:
