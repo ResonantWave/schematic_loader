@@ -31,5 +31,3 @@ Development:
 ### Other
 
  * The original Minecraft Pi API, made by Mojang AB, is included for convenience reasons. 
- * This tool was created for the Tinkercad and Minecraft workshop, made by [VermisLAB](http://www.vermislab.com/). 
- * VermisLAB, and the VermisLAB logo are property of [Vermis Project](http://www.vermisproject.com/), and neither can be used without autorization.
